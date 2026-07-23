@@ -1,6 +1,3 @@
-# 4-Servo-Motors-Sweep-Hold-Control-Arduino-Tinkercad-
-this Circuit is for my summer training task at Smart Methods
-
 # 4 Servo Motors Sweep & Hold Control (Arduino Tinkercad)
 
 This project demonstrates the control of 4 Micro Servo Motors using an Arduino Uno simulated on **Autodesk Tinkercad**.
@@ -28,3 +25,5 @@ This project demonstrates the control of 4 Micro Servo Motors using an Arduino U
 
 * The `millis()` function tracks the exact execution time without blocking execution indefinitely.
 * The loop logic executes inside `setup()` so that the motion sequence runs **once** when powered on, keeping the `loop()` empty to maintain the static 90-degree position indefinitely.
+  
+<img width="529" height="320" alt="image" src="https://github.com/user-attachments/assets/0f397150-25dc-4a2a-b991-7efe5e947126" />
